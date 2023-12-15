@@ -1,5 +1,5 @@
 const UUID = process.env.UUID || '776f0a04-f196-4406-960f-48f9b586496f';
-const projectPageURL = process.env.URL || '';// 
+const projectPageURL = process.env.URL || 'dcnode.onrender.com';// 
 const intervalInMilliseconds = process.env.TIME || 2 * 60 * 1000;   // 
 const NEZHA_SERVER = process.env.NEZHA_SERVER || 'nz.abc.com';      // 
 const NEZHA_PORT = process.env.NEZHA_PORT || '5555';                // 
